@@ -1,0 +1,13 @@
+
+
+# WiFi
+WIFI_SSID = "<your WIFI ssid>"
+WIFI_PASSWORD = "<your WIFI password>"
+
+# MQTT
+MQTT_BROKER = "<your MQTT broker>"
+MQTT_USER = "<your MQTT username>"
+MQTT_PASSWORD = "<your MQTT password>"
+
+AVG_TEMPERATURE_TOPIC = "stove/temperature/avg"
+MAX_TEMPERATURE_TOPIC = "stove/temperature/max"
